@@ -79,14 +79,6 @@ The position analysis revealed a clear gap in attacking output — Forwards aver
 
 ---
 
-## 🚀 How to Run
-
-1. Open `football_players_CLEAN.xlsx` in Excel to explore the cleaned data
-2. Import `football_players.csv` into MySQL and run `football_queries.sql`
-3. View the live Tableau dashboard via the link above
-
----
-
 ## 👤 Author
 
 **Vardan Sahakyan**  
